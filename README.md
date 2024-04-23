@@ -9,7 +9,7 @@ Benchmark Dataset and Pair-WiseRanking Method for Quality Evaluation of Enhanced
  ✨Statement
  🔍Citation
 
-📎Paper Link:
+📎Paper Link:https://ieeexplore.ieee.org/document/10506553
 
 💡Abstract:
   The previously published works still suffer from the following limitations: 1) The subjective studies only focused on the ability of night-time image enhancement (NTIE) algorithms in boosting the intensity of low-light regions, 
@@ -35,4 +35,7 @@ password：uzst
 3512068622@qq.com,wxj_2024@126.com.
 
 🔍Citation:
-  If you find this work useful for you. Please cite:
+  If you find this work useful for you. Please cite:X. Wang, L. Huang, H. Chen, Q. Jiang, S. Weng and F. Shao, "Benchmark Dataset and Pair-Wise Ranking Method for Quality Evaluation of Night-Time Image Enhancement," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2024.3391907.
+keywords: {Measurement;Image enhancement;Lighting;Feature extraction;Image quality;Distortion;Benchmark testing;Enhanced night-time image;Image quality evaluation;Deep learning;Subjective assessment;Pair- wise ranking},
+
+
