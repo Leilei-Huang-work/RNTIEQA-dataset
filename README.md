@@ -27,6 +27,7 @@ new objective ranking method that comprehensively considering image intrinsic an
   You can download our RNTIEQA-dataset and code from
 BaiduYun Disk：https://pan.baidu.com/s/10XZXEm3MS2PNy30Z0vrDOw?pwd=uzst 
 password：uzst
+ or Goolgle Drive: https://drive.google.com/file/d/14_p9YFQu9iFk5M72izADakHUKjOP2vKR/view?usp=sharing
 
 🍎Noting:
 
